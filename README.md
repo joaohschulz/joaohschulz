@@ -26,14 +26,6 @@ Atualmente estudo e desenvolvo projetos com Python, Django, Git, GitHub, HTML e 
 
 ---
 
-## Estatísticas do GitHub
-
-![João GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohschulz&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohschulz&layout=compact&theme=tokyonight)
-
----
-
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/joão-henrique-schulz-8584aa300)
