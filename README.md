@@ -65,6 +65,16 @@ Tenho interesse em compreender todo o processo de desenvolvimento de software, d
 
 ## 🚀 Meus Projetos
 
+### 🏛️ Resolve Nova Esperança — Sistema de Gestão de Chamados
+
+Plataforma web desenvolvida durante um hackathon, com o objetivo de aproximar a população do poder público. O sistema permite que moradores registrem chamados relacionados a problemas urbanos e acompanhem suas solicitações, facilitando a comunicação com a administração pública.
+
+**Tecnologias:** Python, Django, HTML, CSS e banco de dados.
+
+📌 **Status:** Em desenvolvimento
+
+🔗 [Visualizar repositório](https://github.com/joaohschulz/Sistema-Gestao-Chamados)
+
 ### 🎬 PyFlix — Plataforma de Streaming
 
 Plataforma de streaming desenvolvida com Python e Django, com foco no gerenciamento e na exibição de filmes e séries.
