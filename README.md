@@ -1,14 +1,29 @@
-
 <div align="center">
 
 # 👋 Olá, eu sou João Henrique Schulz!
 
 ### 👨‍💻 Estudante de Engenharia de Software | Desenvolvedor Backend em Formação
 
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Backend-Development-7A5CFF?style=flat-square" />
+</p>
+
 🎓 Engenharia de Software — UNIGRAN Capital  
 📍 Campo Grande, Mato Grosso do Sul — Brasil  
 🐍 Foco em Python, Django e Desenvolvimento Web  
 🚀 Em busca de oportunidades de estágio em desenvolvimento de software
+
+<p>
+  <a href="https://github.com/joaohschulz">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/joão-henrique-schulz-8584aa300/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
@@ -36,34 +51,44 @@ Tenho interesse em compreender todo o processo de desenvolvimento de software, d
 
 ### 💻 Linguagens
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ### 🚀 Frameworks e Bibliotecas
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+</p>
 
 ### 🗄️ Bancos de Dados
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+</p>
 
 ### 🔧 Ferramentas
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
 ---
 
 ## 🚀 Meus Projetos
+
+Projetos desenvolvidos durante minha jornada de aprendizado, buscando colocar em prática conceitos de programação, desenvolvimento web, banco de dados e arquitetura de software.
 
 ### 🏛️ Resolve Nova Esperança — Sistema de Gestão de Chamados
 
@@ -71,9 +96,11 @@ Plataforma web desenvolvida durante um hackathon, com o objetivo de aproximar a 
 
 **Tecnologias:** Python, Django, HTML, CSS e banco de dados.
 
-📌 **Status:** Em desenvolvimento
+📌 **Contexto:** Projeto desenvolvido durante um hackathon.
 
-🔗 [Visualizar repositório](https://github.com/joaohschulz/Sistema-Gestao-Chamados)
+🔗 [![GitHub](https://img.shields.io/badge/Visualizar_Projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaohschulz/Sistema-Gestao-Chamados)
+
+---
 
 ### 🎬 PyFlix — Plataforma de Streaming
 
@@ -81,9 +108,11 @@ Plataforma de streaming desenvolvida com Python e Django, com foco no gerenciame
 
 **Tecnologias:** Python, Django, HTML e CSS.
 
-📌 **Status:** Em desenvolvimento
+📌 **Status:** Em desenvolvimento.
 
-🔗 [Visualizar repositório](https://github.com/joaohschulz/PROJETO---Pyflix-Plataforma-de-Streaming)
+🔗 [![GitHub](https://img.shields.io/badge/Visualizar_Projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaohschulz/PROJETO---Pyflix-Plataforma-de-Streaming)
+
+---
 
 ### 🖥️ PC Builder — Montagem de Computadores
 
@@ -91,9 +120,11 @@ Sistema web que permite cadastrar, personalizar e gerenciar configurações de c
 
 **Tecnologias:** Python, Django, HTML, CSS e banco de dados.
 
-📌 **Status:** Finalizado
+📌 **Status:** Finalizado.
 
-🔗 [Visualizar repositório](https://github.com/joaohschulz/Sistema-de-Cria-o-de-PCs-a-partir-de-suas-pe-as)
+🔗 [![GitHub](https://img.shields.io/badge/Visualizar_Projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaohschulz/Sistema-de-Cria-o-de-PCs-a-partir-de-suas-pe-as)
+
+---
 
 ### 📚 Sistema de Cadastro e Vendas de Livros
 
@@ -101,9 +132,9 @@ Aplicação web voltada ao gerenciamento de livros, com funcionalidades relacion
 
 **Tecnologias:** Python, Django, HTML, CSS e banco de dados.
 
-📌 **Status:** Em desenvolvimento
+📌 **Status:** Em desenvolvimento.
 
-🔗 [Visualizar repositório](https://github.com/joaohschulz/Sistema-de-Cadastro-e-Vendas-de-Livros)
+🔗 [![GitHub](https://img.shields.io/badge/Visualizar_Projeto-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/joaohschulz/Sistema-de-Cadastro-e-Vendas-de-Livros)
 
 ---
 
@@ -124,9 +155,9 @@ Aplicação web voltada ao gerenciamento de livros, com funcionalidades relacion
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaohschulz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=joaohschulz&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohschulz&layout=compact&theme=tokyonight&hide_border=true)
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=joaohschulz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -152,11 +183,17 @@ Tenho interesse em atuar com:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-henrique-schulz-8584aa300/)
+<a href="https://www.linkedin.com/in/joão-henrique-schulz-8584aa300/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaohs.contato@gmail.com)
+<a href="mailto:joaohs.contato@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/joaohschulz)
+<a href="https://github.com/joaohschulz">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 </div>
 
